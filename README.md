@@ -79,7 +79,7 @@ Grade: sergeant
 Time on Duty: 27 minutes
 Local Time: 09 May 2025 20:57:28
 ```
-
+![Screenshot 2025-05-09 163923](https://github.com/user-attachments/assets/c4b5d26f-2b20-4ba2-b04f-b6ebcaa8ff67)
 
  💡 Use Cases
 
@@ -88,4 +88,5 @@ Perfect for roleplay servers needing:
 * Clear duty logs for admins
 * Transparent shift tracking for public service jobs
 * Professional-grade Discord integration
+
 
