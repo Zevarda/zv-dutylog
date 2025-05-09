@@ -1,7 +1,7 @@
 
 ### 📄 **zv-dutylog**
 
-```markdown
+
  🚨 zv-dutylog
 
 **zv-dutylog** is an automatic duty status tracker for QBCore-based FiveM servers. It logs when players go **on duty** and **off duty**, and sends detailed, beautifully formatted logs to Discord using webhooks.
@@ -22,14 +22,14 @@ Ideal for jobs like `police`, `ambulance`, `mechanic`, `merchant`, and `governme
 
 1. Drop the `zv-dutylog/` folder inside your server's `resources/` directory.
 2. Add this line to your `server.cfg`:
-```
+
 
 ensure zv-dutylog
 
-```markdown
+
 3. Open `config.lua` and replace the webhook placeholders with your actual Discord webhook URLs.
 
----
+
 
  ⚙️ Configuration
 
