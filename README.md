@@ -8,7 +8,6 @@
 
 Ideal for jobs like `police`, `ambulance`, `mechanic`, `merchant`, and `government`.
 
----
 
 ## ✅ Features
 
@@ -18,7 +17,6 @@ Ideal for jobs like `police`, `ambulance`, `mechanic`, `merchant`, and `governme
 - ⚙️ Fully configurable features via `config.lua`
 - 🛠️ No commands required — everything runs automatically
 
----
 
 ## 🛠 Installation
 
@@ -28,7 +26,7 @@ Ideal for jobs like `police`, `ambulance`, `mechanic`, `merchant`, and `governme
 
 ensure zv-dutylog
 
-````
+```markdown
 3. Open `config.lua` and replace the webhook placeholders with your actual Discord webhook URLs.
 
 ---
@@ -60,9 +58,9 @@ Config.ShowJob = true
 Config.ShowGrade = true
 Config.ShowDuration = true
 Config.ShowLocalTimestamp = true
-````
+```
 
----
+
 
 💬 Example Discord Output
 
