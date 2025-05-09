@@ -67,7 +67,7 @@ Config.ShowLocalTimestamp = true
  ✅ On Duty
 
 ```
-🟢 John Smith is now on duty.
+🟢 Zevarda Wijaya is now on duty.
 Job: police
 Grade: sergeant
 Local Time: 09 May 2025 20:30:15
@@ -76,7 +76,7 @@ Local Time: 09 May 2025 20:30:15
  ⛔ Off Duty
 
 ```
-🔴 John Smith has gone off duty.
+🔴 Zevarda Wijaya has gone off duty.
 Job: police
 Grade: sergeant
 Time on Duty: 27 minutes
