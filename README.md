@@ -38,7 +38,6 @@ Edit `config.lua` to control what data gets sent to Discord:
 ```lua
 Config = {}
 
--- Webhooks per job
 Config.Webhooks = {
  police = 'YOUR_POLICE_WEBHOOK_URL',
  ambulance = 'YOUR_AMBULANCE_WEBHOOK_URL',
@@ -47,13 +46,11 @@ Config.Webhooks = {
  pemerintah = 'YOUR_GOVERNMENT_WEBHOOK_URL',
 }
 
--- Discord embed customization
 Config.WebhookSender = "Duty Tracker"
 Config.EmbedColorOnDuty = 3066993    -- Green
 Config.EmbedColorOffDuty = 15158332  -- Red
 Config.FooterText = "FiveM Duty Logger"
 
--- Toggle features
 Config.ShowJob = true
 Config.ShowGrade = true
 Config.ShowDuration = true
