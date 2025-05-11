@@ -1,9 +1,6 @@
 
 ### 📄 **zv-dutylog**
 
-
- 🚨 zv-dutylog
-
 **zv-dutylog** is an automatic duty status tracker for QBCore-based FiveM servers. It logs when players go **on duty** and **off duty**, and sends detailed, beautifully formatted logs to Discord using webhooks.
 
 Ideal for jobs like `police`, `ambulance`, `mechanic`, `merchant`, and `government`.
